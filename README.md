@@ -22,7 +22,7 @@ Projects have sprung to life with HTML, CSS, and JavaScript. Node.js and Express
 * ✉️  You can contact me at [guri252001@gmail.com](mailto:guri252001@gmail.com)
 * 📁  All my projects are available [Here](https://github.com/gkirat)
 * 💬  Ask me anything related to blockchain technology
-* 🧠  I'm learning Nextjs and Expressjs
+* 🧠  I'm making full Voting Dapp which will be uploaded soon
 
 ### Skills  
 
