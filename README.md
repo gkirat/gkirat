@@ -22,7 +22,7 @@ Projects have sprung to life with HTML, CSS, and JavaScript. Node.js and Express
 * ✉️  You can contact me at [guri252001@gmail.com](mailto:guri252001@gmail.com)
 * 📁  All my projects are available [Here](https://github.com/gkirat)
 * 💬  Ask me anything related to blockchain technology
-* 🧠  I'm making full stack Voting Dapp application which I will be uploaded soon using The Graph
+* 🧠  I'm making full stack Voting Dapp application, which I will be uploading soon using The Graph
 
 ### Skills  
 
