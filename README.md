@@ -3,26 +3,11 @@
 
 <h2 align="center">I am a Blockchain developer </h2>
   
-
-
-My journey into the world of coding began with a serendipitous encounter – a podcast featuring Ranveer Allahbadia discussing web3. It was 2021, and I found myself intrigued by the possibilities that this realm held. At that point, I didn't even own a laptop; I relied on an iPad. But reselling it proved less lucrative than anticipated. Undeterred, I knew that web3 was where I belonged. Determined to overcome this laptop constraint, I embarked on a journey that required creativity and adaptability.
-
-I immersed myself in learning a skill that didn't demand a laptop's constant presence. I delved into theory, absorbing knowledge whenever a possible. When an opportunity arose on Upwork, I was ready. I'd rent a laptop, sometimes from a gracious friend and other times from a rental service. SEO became my foothold, and my services found a place on Upwork.
-
-Gradually, the funds amassed, leading to the purchase of my very own laptop. As summer beckoned, I plunged headfirst into blockchain. For two to three months, web3 consumed me. I grasped Solidity, built contracts, and embraced the foundational aspects. My journey reached a public milestone when I delivered a speech about web3 in September 2022. However, the tech realm presented challenges.
-
-My focus on web3 had limited me in the world of web2 technologies. The transition wasn't seamless. College, which had opened its doors in 2022, became a new dimension. Amid lectures and club meetings, my commitment to growth wavered. As 2023 dawned, I realized that my aspirations from the previous year remained unfulfilled. Classes and commitments coexisted, and I found myself tied to a startup as an SEO strategist – a role I hadn't sought.
-
-Fed up with the college environment, I decided to forge my own path. In May 2023, I left college behind and embarked on a fresh start. This journey wasn't without challenges. Attempting to create a dApp without a grasp of React brought numerous roadblocks. Yet, the story continues. August is upon us, and the progress is palpable. React's hooks and \`useState\` are no longer mysteries; they've become tools I wield confidently.
-
-Projects have sprung to life with HTML, CSS, and JavaScript. Node.js and Express.js followed suit, expanding the horizon. And now, the path leads to Next.js and MongoDB, the next chapter in a journey that's as much about overcoming hurdles as it is about embracing opportunities. 
-
-
 * 🌍  I'm based in India
 * ✉️  You can contact me at [guri252001@gmail.com](mailto:guri252001@gmail.com)
 * 📁  All my projects are available [Here](https://github.com/gkirat)
 * 💬  Ask me anything related to blockchain technology
-* 🧠  I'm making full stack Voting Dapp application, which I will be uploading soon using The Graph
+* 🧠  I'm making full stack Voting Dapp application which uses "The Graph" for data fetching, which I will be uploading soon
 
 ### Skills  
 
