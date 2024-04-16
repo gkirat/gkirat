@@ -6,9 +6,7 @@
 * 🌍  I'm based in India
 * ✉️  You can contact me at [guri252001@gmail.com](mailto:guri252001@gmail.com)
 * 📁  All my projects are available [Here](https://github.com/gkirat)
-* 💬  Ask me anything related to blockchain technology
-* 🧠  I'm making full stack Voting Dapp application which uses "The Graph" for data fetching, which I will be uploading soon ✅
-* 🌩️  Deciding what MERN stack project to make.
+* 💬  Ask me anything related to blockchain technology and smart contract audting.
 
 ### Skills  
 
